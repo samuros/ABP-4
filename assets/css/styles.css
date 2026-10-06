@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.text.titles > p, .text.tasks > p{
+  font-family: "Victor Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  color: #323232;
+  font-style: normal;
+  font-size: smaller;
+}
+
+.table-id {
+    width: 3em;
+}
+
+.table-actions {
+    width: 1.5em;
+}
+
